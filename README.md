@@ -1,1 +1,1 @@
-# CICD
+# praktyka-programowania
